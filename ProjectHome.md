@@ -1,0 +1,1 @@
+Lisp implemented card game witch. Home work project for university in LISP courses
